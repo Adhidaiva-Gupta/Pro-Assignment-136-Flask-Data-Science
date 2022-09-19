@@ -1,0 +1,4 @@
+Pro Assignment 136 Link of Result
+**you will have to update the bat file every time and run the main.py file every time you try to run the project**
+
+http://127.0.0.1:5000/star?name=Sun
